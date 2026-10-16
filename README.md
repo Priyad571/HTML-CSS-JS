@@ -1,3 +1,3 @@
-# agri-equipment-repair
+# HTML-CSS-JS
 
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-mmvfenz6)
+My HTML, CSS and JavaScript practice files.
